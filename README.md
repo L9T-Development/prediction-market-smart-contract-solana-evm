@@ -1,6 +1,6 @@
 # Solana Prediction Market Smart Contract
 
-A decentralized prediction market platform built on Solana blockchain, inspired by Polymarket. This project enables users to create markets, trade positions, and resolve outcomes based on real-world events.
+A decentralized prediction market platform built on Solana, EVM(BASE, Xlayer, BNB ) blockchain, inspired by Polymarket. This project enables users to create markets, trade positions, and resolve outcomes based on real-world events.
 
 ## Features
 
@@ -17,6 +17,8 @@ If you wanna build prediction market project like this, plz contact here: [Teleg
 ## Relation project
 
 - [Frontedn & Backend](https://github.com/0xTan1319/prediction-market-fe-be-solana)
+
+- [EVM Version](https://github.com/0xTan1319/EVM-Prediction-Market-Smart-Contract)
 
 ## Architecture
 
