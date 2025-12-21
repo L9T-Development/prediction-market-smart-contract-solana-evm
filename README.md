@@ -12,7 +12,7 @@ A decentralized prediction market platform built on Solana, EVM(BASE, Xlayer, BN
 
 ## Contact
 
-If you wanna build prediction market project like this, plz contact here: [Telegram](https://t.me/shiny0103) | [Twitter](https://x.com/0xTan1319)
+If you wanna build prediction market project like this, plz contact here: [Telegram](https://t.me/shiny0103) | [Twitter](https://x.com/0xTan333)
 
 ## Relation project
 
